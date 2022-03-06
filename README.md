@@ -1,0 +1,2 @@
+# LegendMonstersPub
+レジェンドモンスター公開用のレポジトリ
